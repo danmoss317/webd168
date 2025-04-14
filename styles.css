@@ -1,0 +1,28 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    color:rgb(141, 0, 0);
+}
+
+h3 {
+    margin-top: 2em;
+}
+
+p {
+    margin-left: 31em;
+}
+
+img {
+    float: left;
+}
+
+li {
+    margin-left: 32em;
+}
+
+a {
+    text-decoration: none;
+}
